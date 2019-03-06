@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+#col3 img{
+    width: 30%;
+    margin: 1.65%;
+    float: left;
+}
+
+#col4 img{
+    width: 21%;
+    margin: 1.66%;
+    float: left;
+}
+
+p{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin: 1.65%;
+    border-bottom: 2px solid green;
+    width: 30%;
+    padding: 15px;
+}
